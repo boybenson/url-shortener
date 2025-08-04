@@ -1,6 +1,6 @@
 # Clone the repository
 
-git clone https://github.com/your-username/url-shortener.git
+git clone https://github.com/boybenson/url-shortener.git
 
 # Move into the project directory
 
